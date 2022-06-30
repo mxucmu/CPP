@@ -1,0 +1,8 @@
+tested following cases:
+
+./replace testfile The hee
+./replace testfile the hee
+./replace testfile The Then
+./replace testfile The he
+./replace testfile "feet and" "hand or"
+./replace testfile "grass so"  "so grass" 
